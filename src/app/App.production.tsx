@@ -2,20 +2,20 @@ import React, { useMemo, useState } from "react";
 import { Cpu, Zap, Truck, Settings, Server, TrendingUp, Building2, Flame, Sparkles, Shield, Award, Phone, Mail, MapPin, Send } from "lucide-react";
 import { FormatsImproved } from "./components/FormatsImproved.production";
 
-import heroImage from "../../assets/hero.png";
-import logoImage from "../../assets/logo.png";
-import gpuImage from "../../assets/gpu.png";
-import asicImage from "../../assets/asic.png";
-import deliveryImage from "../../assets/delivery.png";
-import commissioningImage from "../../assets/commissioning.png";
-import gridImage from "../../assets/grid.png";
-import fastmineImage from "../../assets/fastmine.png";
-import containerModulesImage from "../../assets/container-modules.png";
-import personnelImage from "../../assets/personnel.png";
-import aerialViewImage from "../../assets/aerial-view.png";
-import maintenanceImage from "../../assets/maintenance.png";
-import newStationsImage from "../../assets/new-stations.png";
-import monitoringImage from "../../assets/monitoring.png";
+import heroImage from "../assets/hero.png";
+import logoImage from "../assets/logo.png";
+import gpuImage from "../assets/gpu.png";
+import asicImage from "../assets/asic.png";
+import deliveryImage from "../assets/delivery.png";
+import commissioningImage from "../assets/commissioning.png";
+import gridImage from "../assets/grid.png";
+import fastmineImage from "../assets/fastmine.png";
+import containerModulesImage from "../assets/container-modules.png";
+import personnelImage from "../assets/personnel.png";
+import aerialViewImage from "../assets/aerial-view.png";
+import maintenanceImage from "../assets/maintenance.png";
+import newStationsImage from "../assets/new-stations.png";
+import monitoringImage from "../assets/monitoring.png";
 
 /** FASTMINE GPU sub-landing - production build (Vercel) */
 export default function App() {
